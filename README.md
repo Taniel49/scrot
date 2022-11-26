@@ -8,5 +8,5 @@
 4.1 RECOGN_URL - адрес запроса к API распознавания текста  
 4.2 TOKEN_URL - адрес запроса для получения IAM-токена Yandex.Cloud  
 4.3 OAUTH - личный oauth-ключ на Yandex.Cloud  
-4.4 FOLDER_ID - ID дериктории на Yandex.Cloud  
+4.4 FOLDER_ID - ID директории на Yandex.Cloud  
 5. Запустить приложение командой node index.js
